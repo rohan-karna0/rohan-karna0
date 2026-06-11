@@ -4,6 +4,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Karna&fontSize=70&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descAlign=50" />
 </p>
 
+<h1 align="center">Rohan Karna</h1>
+<h3 align="center">AI & Data Science Enthusiast | NLP, LLM & Intelligent Systems</h3>
+
 <p align="center">
   <a href="https://github.com/rohan-karna0">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
