@@ -1,7 +1,7 @@
-<!-- Copy this entire file into a repo named: rohan-karna0/rohan-karna0 → README.md -->
+<!-- Copy this entire file into: rohan-karna0/rohan-karna0 → README.md -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Karna&fontSize=70&fontAlignY=35&desc=Data%20Analyst%20%7C%20ML%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Rohan%20Karna&fontSize=70&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Enthusiast&descAlignY=55&descAlign=50" />
 </p>
 
 <p align="center">
@@ -21,7 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohan-karna0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-karna0&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -33,11 +32,13 @@
 
 ## About Me
 
-I am a **Data Analyst** and **Machine Learning enthusiast** currently pursuing **M.Tech in Data and Computational Science** at **IIT Jodhpur**. I specialize in turning complex datasets into actionable insights through statistical analysis, feature engineering, and predictive modeling.
+**AI & Data Science enthusiast** building real-world projects in **NLP, LLM, and intelligent systems.** Passionate about solving meaningful problems and creating impact-driven solutions.
+
+Currently pursuing **M.Tech in Data and Computational Science** at **IIT Jodhpur**, I specialize in turning complex datasets into actionable insights through statistical analysis, feature engineering, and predictive modeling.
 
 My academic background in **Electronics and Communication Engineering** from **Amrita Vishwa Vidyapeetham**, combined with hands-on experience as a **Data Analyst Intern**, gives me a strong foundation in both analytical thinking and real-world problem solving.
 
-I am passionate about **deep learning**, **computer vision**, and building intelligent systems — from CNN-based disease detection to predictive models for business decisions. I secured **3rd place** out of 100+ participants in the **NeuroRobotics Hackathon 2026** at IIT Jodhpur.
+I secured **3rd place** out of 100+ participants in the **NeuroRobotics Hackathon 2026** at IIT Jodhpur for developing a multimodal mind wandering detection system using **CNN + LSTM**.
 
 ---
 
@@ -51,7 +52,7 @@ I am passionate about **deep learning**, **computer vision**, and building intel
 |--------|-------------|
 | **Programming & Analytics** | Python, SQL, Statistics, Machine Learning, Deep Learning, EDA, Feature Engineering |
 | **Libraries & Tools** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Keras, TensorFlow, OpenCV |
-| **Data & Modeling** | CNN, LSTM, SMOTE, Hyperparameter Tuning, Data Augmentation, Predictive Modeling |
+| **AI & NLP** | NLP, LLMs, CNN, LSTM, SMOTE, Hyperparameter Tuning, Predictive Modeling |
 | **Soft Skills** | Analytical Thinking, Teamwork, Communication, Problem-Solving, Ownership |
 
 ---
@@ -69,7 +70,6 @@ I am passionate about **deep learning**, **computer vision**, and building intel
 
 | Project | Tech Stack | Overview |
 |---------|-----------|----------|
-| **Accounting SaaS Platform** | Multi-tenant Architecture, RBAC | Developing a multi-tenant platform with invoicing, expense management, payroll, and financial reporting modules. |
 | **Plant Disease Detection using CNN** | Python, CNNs, OpenCV, TensorFlow | Built a CNN-based model to classify plant leaf diseases using the PlantVillage dataset with data augmentation and normalization. |
 | **Insurance Cross-Sell Prediction** | Python, Scikit-learn, Pandas, ML | Built a predictive model for health insurance purchase likelihood using feature engineering, SMOTE, and model comparison. |
 
@@ -96,7 +96,7 @@ Developed a multimodal mind wandering detection system using **CNN + LSTM** amon
 
 ## Collaboration
 
-I am open to collaborations on **data analysis, machine learning research,** and **deep learning projects.** I welcome opportunities that align with innovation and impact-driven technology solutions.
+I am open to collaborations on **AI/ML research, NLP, LLM applications,** and **intelligent systems.** I welcome opportunities that align with innovation and impact-driven technology solutions.
 
 ---
 
