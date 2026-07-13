@@ -57,7 +57,7 @@ Building data-driven systems — RAG pipelines, ML risk models, and analytics th
 
 ---
 
-## 🚀 Projects
+## 🚀 Current Ongoing Projects
 
 ### Healthcare RAG System
 `Python` `LangChain` `Qdrant` `Ollama` `Streamlit` `FastAPI` · *May 2026 – Present*
