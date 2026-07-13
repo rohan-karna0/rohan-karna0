@@ -67,7 +67,7 @@ Building data-driven systems — RAG pipelines, ML risk models, and analytics th
 - Developed a Streamlit chat interface and FastAPI endpoints for grounded medical Q&A with source attribution
 
 ### E-commerce Return Risk Platform
-`Python` `FastAPI` `XGBoost` `SHAP` `Streamlit` · *Mar 2026 – July 2026*
+`Python` `FastAPI` `XGBoost` `SHAP` `Streamlit` · *Mar 2026 – Present*
 
 - Built an end-to-end return-risk pipeline on the Olist dataset merging orders, products, reviews, and sellers; predicts return likelihood using tabular, review-text, and listing-photo signals
 - Trained XGBoost models with stratified cross-validation and class-imbalance handling; used SHAP so sellers can see which features drive each risk score
@@ -79,8 +79,6 @@ Building data-driven systems — RAG pipelines, ML risk models, and analytics th
 
 ### Programming & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
@@ -89,14 +87,8 @@ Building data-driven systems — RAG pipelines, ML risk models, and analytics th
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4CAF50?style=for-the-badge)
 
 ### Frameworks & Technologies
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-2496ED?style=for-the-badge)
 
 ### Libraries & Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
